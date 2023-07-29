@@ -108,8 +108,4 @@
 
 Remember to update the relevant configurations (e.g., API endpoints) in the frontend project after deploying the backend.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions, please create an issue or submit a pull request.
-
-Please follow the existing coding style and guidelines when contributing to this project.
